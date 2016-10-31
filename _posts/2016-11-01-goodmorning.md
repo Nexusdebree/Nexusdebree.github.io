@@ -12,5 +12,7 @@ Software-defined networking (SDN) was, by far, the biggest topic discussed at In
 
 However, there was some disagreement over exactly how this should and does work. During the SDN Keynote Panel, for instance, the panelists argued over even the definition of software-defined networking: Is it just the virtualization of hardware or is it the next level -- the ability to rapidly scale and change the architecture using automated tools? As this is a new topic (VMware coined the term in a whitepaper just last year), I expect that better information and resources will be forthcoming.
 
+Stay tuned for more !!!!!!
+
 
 
