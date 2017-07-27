@@ -10,6 +10,6 @@ My Phone Number : +917531083763
 
 My Google Plus Profile : [Here](https://plus.google.com/u/0/108023656759850062032)
 
-My E-Mail ID : [zoopsspk15@gmail.com](mailto:zoopsspk15@gmail.com)
+My E-Mail ID : [nexusdebree@gmail.com](mailto: nexusdebree@gmail.com)
 
-My Phone no. **7531083763 , 9013785822**
+My Phone no. **7531083763 , 9868165676**
